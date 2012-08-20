@@ -58,5 +58,9 @@ Or:
 
 == Changelog ==
 
+= 0.2 =
+* FIX: Use marker path from settings
+* NEW: Possibility to disable zoom wheel
+
 = 0.1 =
 * NEW: First release with basic features

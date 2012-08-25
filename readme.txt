@@ -3,7 +3,7 @@ Contributors: Guido Handrick
 Tags: OpenStreetMap, geotag, geolocation, geocache, geocaching, OSM, travelogue, travelblog, OpenLayers, Open Layers, Open Street Map, marker, geocode, geotagging
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 0.1.1 
+Stable tag: 1.0 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,6 +57,11 @@ Or:
 2. The settings page
 
 == Changelog ==
+
+= 1.0 =
+* NEW: Include or exclude categories
+* NEW: Add Google Baselayers - Terrain, Roadmap, Satellite, Hybrid
+* NEW: Show only images with marker in the filename on the settings page
 
 = 0.2 =
 * FIX: Use marker path from settings
